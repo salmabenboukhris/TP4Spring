@@ -1,3 +1,9 @@
+## Hibernate
+ ## Architecture du projet 
+ 
+
+<img width="814" height="959" alt="Screenshot 2026-03-10 182553" src="https://github.com/user-attachments/assets/7c5dd12a-f32f-4f5c-bc04-9fb57dfe161e" />
+
 ### Cration de la base de donnee 
 
 <img width="1109" height="843" alt="Screenshot 2026-03-09 153406" src="https://github.com/user-attachments/assets/a7edb686-414b-4fc1-823d-1f35136e44f6" />
